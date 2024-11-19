@@ -1,0 +1,9 @@
+# Arquivos de cache e compilados
+*.pyc
+*.pyo
+__pycache__/
+
+# Ambientes virtuais
+env/
+venv/
+db.sqlite3
